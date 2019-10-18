@@ -22,7 +22,7 @@
             "title":"YarZoo with Flutter",
             "image":"zoo_flutter.jpg",
             "text":"After I've joined to MDinc team, I started to learn what Flutter is. At first, this was need to their project, but later I've fallen in love with Flutter. This is really fantastic cross-platform (and now multi-platform) framework to create applications with single code base. As in Android, I started to learn Flutter by creating my project, called Yaroslavl Zoo, but now with 'Flutter' suffix. I've developed that app for three weeks, with more complex UI and logic then on clean Android. Now, that app looks good, has more pages and works fine, instead of first version.",
-            "link":"https://github.com/Alex-A4/Yar-Zoo"
+            "link":"https://github.com/Alex-A4/ZooMobile"
         },
         {
             "title":"MDinc project",
